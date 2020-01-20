@@ -1,3 +1,3 @@
 # dicoding-azure-first
 
-First submission for Dicoding - Want to Be Azure Cloud Developer
+First submission for Dicoding - Want to be Azure Cloud Developer
