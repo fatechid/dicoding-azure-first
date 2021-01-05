@@ -73,8 +73,8 @@
         
                     <?php
     $host = "faqs-server.database.windows.net";
-    $user = "FATechID";
-    $pass = "KamisamaTasukatta127";
+    $user = "USERNAME";
+    $pass = "PASSWORD";
     $db = "faqsdb";
 
     try {
